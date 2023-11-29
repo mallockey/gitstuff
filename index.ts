@@ -1,7 +1,7 @@
 const myFunction = () => {
   console.log('This is my function');
 };
-
+const apple = []
 myFunction();
 
 const mathIsFun = 1 + 2;
